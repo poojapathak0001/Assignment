@@ -5,9 +5,6 @@
 .icons >li{
 	display: inline;
 }
-body{
-	background: url("../../image/image1.jpg");
-}
 .wrapper{
 	background: black;
 	border: ridge 2px #e3e3e3;
